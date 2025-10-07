@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Scientific computing
+numpy
+matplotlib
+spicy
+
+
+# Jupyter environment
+jupyter
+ipykernel
